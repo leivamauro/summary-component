@@ -4,7 +4,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ## Table of contents
 
-  - [The challenge](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj/hub/order-summary-component-WJO1ue4p_)
+  - [The challenge](https://www.frontendmentor.io/solutions/responsive-summary-card-with-sass-flexbox-and-grid-cUX1yneiO)
   - [Screenshot](./My-Solution.png)
   - [Built with](preprocessor SASS of CSS and HTML5)
   - [What I learned](I learned the sass tool)
