@@ -91,6 +91,10 @@ body {
   color: #3829e0;
 }
 
+.description .plan .music-icon {
+  margin: 5px;
+}
+
 .btn-card {
   padding: 0 20px;
   width: 100%;
