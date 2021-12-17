@@ -9,10 +9,6 @@ $very-pale-blue: hsl(225, 100%, 98%);
 $desaturated-blue: hsl(224, 23%, 55%);
 $dark-blue: hsl(223, 47%, 23%);
 
-@mixin button() {
-
-}
-
 *
 {
   padding: 0;
@@ -33,7 +29,7 @@ h2 {
 
 body
 {
-  width: 1440px;
+  width: 100%;
   min-height: 100vh;
   background-color: $pale-blue;
   background-image: $desktopBg;
@@ -41,11 +37,14 @@ body
   display: flex;
   justify-content: center;
   align-items: center;
+  gap: 20px;
+  flex-wrap: wrap;
 }
 
 .card
 {
   width: 330px;
+  min-width: 250px;
   height: 515px;
   background-color: white;
   border-radius: 15px;
@@ -154,18 +153,24 @@ body
   {
     color: $dark-blue;
   }
-
 }
-@media screen and (max-whidt: 175px){
+
+@media screen and (max-width: 375px){
 
   body
   {
-    width: 375px;
+    min-width: 275px;
     background-image: $mobileBg;
     background-repeat: no-repeat;
-    display: flex;
-    justify-content: center;
-    align-items: center;
   }
 
+  .card
+  {
+    min-width: 250px;
+    margin: 0 20px;
+  }
+  .desc-plan
+  {
+    margin: 0 5px;
+  }
 }
