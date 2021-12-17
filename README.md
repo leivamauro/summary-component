@@ -4,12 +4,10 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ## Table of contents
 
-  - [The challenge](#Order summary component challenge)
+  - [The challenge](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj/hub/order-summary-component-WJO1ue4p_)
   - [Screenshot](./My-Solution.png)
-  - [Links](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj/hub/order-summary-component-WJO1ue4p_)
-  - [Built with](#preprocessor SASS of CSS and HTML5)
-  - [What I learned](#I learned the sass tool)
-  - [Author](#mauro)
+  - [Built with](preprocessor SASS of CSS and HTML5)
+  - [What I learned](I learned the sass tool)
 
 ### Screenshot
 
@@ -38,5 +36,5 @@ I would like to continue focusing on frontend, my next step is to learn JavaScri
 
 ## Author
 
-- Website - [mauro](https://github.com/leivamauro)
-- Frontend Mentor - [@leivamauro](https://www.frontendmentor.io/profile/leivamauro)
+- Website - [MauroGitHub](https://github.com/leivamauro)
+- Frontend Mentor - [@Mauro](https://www.frontendmentor.io/profile/leivamauro)
